@@ -43,4 +43,3 @@ function pxgPrice(no, fixed=0) {
 	return no;
 }
 xemBaoCaoThongKe();
-getStatistics();
