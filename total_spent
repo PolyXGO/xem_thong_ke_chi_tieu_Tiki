@@ -49,7 +49,6 @@ function xemBaoCaoThongKe() {
 						let t5 = x3["value"];
 						tongTienHang+=t5;
 					});
-
 				}
 			});
 			pNo += 1;
@@ -59,6 +58,7 @@ function xemBaoCaoThongKe() {
 				xemBaoCaoThongKe();
 			}
 			else {
+				console.clear();
 				var tongTienChiTieuX=pxgPrice(tongTienChiTieu);
 				tongTienHang=tongTienHang+tongTienVanChuyenPhaiTra;
 				tongTienVanChuyenChuaGiam=tongTienVanChuyenPhaiTra+tongTienVanChuyenDuocGiam;
