@@ -96,6 +96,14 @@ function xemBaoCaoThongKe() {
 	xhttp.open("GET", "https://tiki.vn/api/v2/me/orders?page=" + pNo + "&limit="+si+"&include=items,price_summary", true);
 	xhttp.send();
 }
+const getDate = () => {
+  const newDate = new Date();
+  const year = newDate.getFullYear();
+  const month = newDate.getMonth() + 1;
+  const d = newDate.getDate();
+  
+  return `${d.toString()}/${month.toString()}/${year}`;
+}
 function PXGCert(pri){
   if(pri<=10000000){
   	return "Mình mua sắm cũng THƯỜNG ha";
