@@ -80,16 +80,16 @@ function xemBaoCaoThongKe() {
 				console.log("%cTổng tiền tiết kiệm được: "+"%c"+pxgPrice(tongTienTietKiem)+" vnđ", "font-size: 18px;","font-size: 18px; color:green");
 				console.log("================================");
 				console.log("%c🔴Nhận mã giảm giá "+getDate()+"🔥", "font-size: 26px;");
-				console.log("%c👉Tiki: "+"%chttps://mggtiki.com", "font-size: 18px;","font-size: 18px; color:#fc0000");
+				console.log("%c👉Shopee khung giờ: "+"%chttps://polyxgo.com/ma-giam-gia/shopee/", "font-size: 18px;","font-size: 18px; color:#fc0000");
+				console.log("%c👉Lazada: "+"%chttps://polyxgo.com/ma-giam-gia/lazada/", "font-size: 18px;","font-size: 18px; color:#fc0000");
+				console.log("%c👉Tiki: "+"%chttps://polyxgo.com/ma-giam-gia/tiki/", "font-size: 18px;","font-size: 18px; color:#fc0000");
 				console.log("%c👉Fahasa: "+"%chttps://magiamgiafahasa.com", "font-size: 18px;","font-size: 18px; color:#fc0000");
-				console.log("%c👉Shopee khung giờ: "+"%chttps://mggshopee.net", "font-size: 18px;","font-size: 18px; color:#fc0000");
-				console.log("%c👉Lazada: "+"%chttps://mgglazada.com", "font-size: 18px;","font-size: 18px; color:#fc0000");
 				console.log("%c👉Điện Máy XANH: "+"%chttps://magiamgiadienmayxanh.com", "font-size: 18px;","font-size: 18px; color:#fc0000");
 				console.log("%c👉Thế Giới Di Động: "+"%chttps://magiamgiathegioididong.com", "font-size: 18px;","font-size: 18px; color:#fc0000");
 				console.log("================================");
 				console.log("%c✅Xem lịch sử giá sản phẩm tăng/ giảm", "font-size: 26px;");
 				console.log("%c👉LichSuGia.vn: "+"%chttps://lichsugia.vn", "font-size: 18px;","font-size: 18px; color:#fc0000");
-				console.log("%c👉Tiện ích tra Lịch Sử Giá VN: "+"%chttps://thank.zone/LichSuGiaVNExt", "font-size: 18px;","font-size: 18px; color:#fc0000");
+				console.log("%c👉Tiện ích tra Lịch Sử Giá VN: "+"%chttps://chromewebstore.google.com/detail/lichsugiavn/alkalmfopmpfpapcdbimlihfoiilhlaf?hl=vi", "font-size: 18px;","font-size: 18px; color:#fc0000");
 			}
 		}
 	};
